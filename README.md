@@ -16,6 +16,7 @@ Documentação estratégica completa para o projeto de consultoria da **Gisa Fer
 | 04 | [Mensagem de Posicionamento](docs/04-mensagem-de-posicionamento.md) | Mensagem oficial, slogans, headlines e território de diferenciação |
 | 05 | [Análise de Concorrentes](docs/05-analise-de-concorrentes.md) | Mapa do mercado, gaps competitivos e diferencial estratégico |
 | 06 | [Plano Mestre — Ecossistema de Produtos](docs/06-plano-mestre-ecossistema-produtos.md) | Esteira completa, snapshot, agentes IA, automações, roadmap e projeção financeira |
+| 07 | [Prompt Agente de Conteúdo — Instagram](docs/07-prompt-agente-conteudo-instagram.md) | System prompt completo para o agente IA de criação de conteúdo Instagram (baseado no Playbook FEN) |
 
 ## Esteira de Produtos
 
